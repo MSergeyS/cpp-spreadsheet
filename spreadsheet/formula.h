@@ -3,7 +3,7 @@
 #include "common.h"
 
 #include <memory>
-#include <vector>
+#include <variant>
 
 // Формула, позволяющая вычислять и обновлять арифметическое выражение.
 // Поддерживаемые возможности:
